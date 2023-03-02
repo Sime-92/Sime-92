@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+ 🔭 I’m currently working on maintenance worker
+- 🌱 I’m currently learning 1º DAW
+- 💬 Ask me about ...
+- 📫 How to reach me: alupar9905@ieselcaminas.org
 <!--
 **Sime-92/Sime-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
