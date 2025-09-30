@@ -1,11 +1,23 @@
-### Hello there 👋
+Hello there 👋
 
-- 🔭 Currently working as a **Maintenance Worker**, enhancing my problem-solving and teamwork skills.
-- 🌱 Studying **2nd year in Web Application Development (DAW)**, passionate about both **front-end and back-end development**.
-- 🚀 Skilled in **HTML, CSS, JavaScript, Angular, PHP, Laravel, Python, Django, Java, MySQL, and PostgreSQL**.
-- 👯 Looking to collaborate on **web development projects** and eager to learn from the community.
-- 🤔 Interested in **emerging technologies and best programming practices**.
-- 💬 Ask me about **career transition, team management, and web development**.
-- 📫 Reach me at: [simeonparis@gmail.com](mailto:simeonparis@gmail.com)
-- ⚡ Fun fact: I bring my experience in **sales, marketing, and customer service** to my web development projects!
+🚀 **Web Developer**
 
+🌐**Solid experience** in web application development, with a track record in **Tech companies**.
+   * **Frontend:** Angular, Angular SSR, HTML, CSS, JavaScript, Bootstrap, and Tailwind.
+   * **Backend:** Node.js, ExpressJs, and NestJS.
+   * **Databases:** PostgreSQL, MongoDB, MySQL.
+   * **DevOps/Tools:** Docker, Git, CI/CD basics, and deployment in cloud environments.
+
+🌱 **Currently focused** on creating **my own projects** and exploring new opportunities.
+
+🔍 **Always searching** for best programming practices, clean architectures, and emerging technologies to build solutions.
+
+🤝 **Open to collaborations** on challenging projects and connecting with other professionals to share knowledge and continuously learn.
+
+💡 **My career combines** technical experience with skills in sales, marketing, and team management, providing a comprehensive perspective on the product lifecycle.
+
+💬 **Ask me about:** Full Stack Development, Docker, SaaS architecture, and AI integration.
+
+📫 **Contact me:** simedev92@gmail.com
+
+⚡ **Fun fact:** My experience in other jobs has led me to seek opportunities to optimize them through programming!
